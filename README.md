@@ -11,3 +11,5 @@ git push
 get checkout -b initialsetup
 <!-- Switching branch -->
 git checkout main
+<!--to remove a folder-->
+git rm -rf --cache .filename
